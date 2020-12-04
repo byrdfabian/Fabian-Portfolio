@@ -24,6 +24,30 @@ body {
   header {
     background: #d21034;
   }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
   
   h1 {
     /* Box-model */
@@ -59,17 +83,21 @@ body {
   }
   
   #main-bio,
-  #contact-info,
   #bio-image {
     float: left;
   }
   
   #main-bio {
     width: 70%;
+    float: left;
   }
   
   #contact-info {
-    width: 30%;
+    height: 300px;
+    margin: 0;
+    position: relative;
+    border: 3px solid black;
+    text-align: center;
   }
   
   #bio-image {
