@@ -93,13 +93,13 @@ body {
   }
   
   #contact-info {
-    height: 300px;
+    height: 500px;
     margin: 0;
     position: relative;
     border: 3px solid black;
     text-align: center;
   }
-  
+ 
   #bio-image {
     /* Box-model */
     width: 200px;
