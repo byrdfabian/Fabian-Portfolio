@@ -6,8 +6,7 @@ with this a portfolio of my body of work was created.  As I continue to advance 
 will continue to made to my portfolio to provide interested personnel an overview of the knowledge and skills attained while in
 attendance at the UNCC Coding Bootcamp
 
-```
-## User Story
+## User 
 
 AS A student
 I WANT to display my knowledge and body of work
@@ -16,9 +15,11 @@ AS A student
 I WANT to use my Portfolio as a tool to attract employers
 SO THAT I can hopefully attain employment using my newly aquired skills.
 
-```
 ## Technologies Used: 
 
 * HTML
 * CSS Frameworks: Bootstrap CS
+
+## Github Deloyment Link
+
 
