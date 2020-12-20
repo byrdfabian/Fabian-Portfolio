@@ -24,3 +24,6 @@ SO THAT I can hopefully attain employment using my newly aquired skills.
 
 https://byrdfabian.github.io/Fabian-Portfolio/
 
+## Image of Project
+
+./images/portfolioscreenshot.png
