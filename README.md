@@ -26,5 +26,6 @@ https://byrdfabian.github.io/Fabian-Portfolio/
 
 ## Image of Project
 
+![](images/portfolioscreenshot.png)
 
 
